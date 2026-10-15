@@ -9,7 +9,7 @@
 
 Official personal portfolio, research archive, and interactive cyber terminal of **Akash Tiwari** — Computer Science & Engineering, AI, and Cybersecurity specialist at **IIT Patna**, and Author of *"The Civic Sense of Indian People"*.
 
-     Web link = akash-kumar-tiwari.netlify.app
+ Web link = https://akash-kumar-tiwari.netlify.app/
      
 📍 **Location:** Patna, Bihar, India 
    
